@@ -1,0 +1,7 @@
+MediCure 2.0 is a full-stack single-page application that leverages Django to build robust backend APIs and employs a responsive React frontend for seamless user interactions. The application utilizes MySQL as its database management system. This website is used to manage the inventory of a medical store, where logged-in employees can add new medicines, update existing ones, view them, and also delete medicines. With a focus on medication management, it provides comprehensive features including user authentication, CRUD functionalities, and an intuitive user interface, ensuring efficient and user-friendly medication management.
+
+FrontEnd: Python, Django
+BackEnd: React.js, javascript, bootstrap, CSS, HTML
+DataBase: MySQL
+Other Technologies: XAMPP, npm, pip, phpmyadmin
+IDE: VScode
